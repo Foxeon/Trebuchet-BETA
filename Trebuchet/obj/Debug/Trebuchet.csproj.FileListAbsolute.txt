@@ -1,0 +1,6 @@
+C:\Users\Wichard\documents\visual studio 2012\Projects\Trebuchet\Trebuchet\obj\Debug\Trebuchet.csprojResolveAssemblyReference.cache
+C:\Users\Wichard\documents\visual studio 2012\Projects\Trebuchet\Trebuchet\bin\Debug\Trebuchet.exe
+C:\Users\Wichard\documents\visual studio 2012\Projects\Trebuchet\Trebuchet\bin\Debug\Trebuchet.pdb
+C:\Users\Wichard\documents\visual studio 2012\Projects\Trebuchet\Trebuchet\obj\Debug\Trebuchet.exe
+C:\Users\Wichard\documents\visual studio 2012\Projects\Trebuchet\Trebuchet\obj\Debug\Trebuchet.pdb
+C:\Users\Wichard\documents\visual studio 2012\Projects\Trebuchet\Trebuchet\bin\Debug\Trebuchet.xml
